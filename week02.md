@@ -12,3 +12,7 @@
 
 2.  [Flexbox Froggy](https://flexboxfroggy.com/) - yep you get to play a game for your HW!
 3.  (optional) [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)  - great visual way of learning about git branching
+
+
+## BONUS ASSIGNMENT
+Have a little extra time?  Give [THIS](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/CSS_zen_garden_challenge.md) a try!
