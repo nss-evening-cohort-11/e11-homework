@@ -1,6 +1,6 @@
 # HW Week 20
 ## Study Group Assignment:
-1. [Sports Roster](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/REACT_mushroom_picker.md) - Authentication, READ, DELETE (after lecture on saturday)
+1. [Sports Roster](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/REACT_sports_roster.md) - Authentication, READ, DELETE (after lecture on saturday)
 
 
 ## Individual Assignment
